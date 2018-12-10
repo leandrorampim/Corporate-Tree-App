@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Corporate Tree</string>
+    <string name="excluir">Excluir Cadastro</string>
+    <string name="editar">Editar Cadastro</string>
+    <string name="capital_social">Capital Social</string>
+    <string name="quantidade_cota_acaoordinaria">Quantidade Cota</string>
+</resources>
